@@ -7,6 +7,8 @@ PowerEdge** servers (e.g. PowerEdge T320/R420/R720). It provides:
 - `omreport` / `omconfig` CLI for hardware, RAID/PERC, sensors, and the system log
 - an optional web GUI on `https://<host>:1311`
 
+The source repository is [bytehound-labs/omsa8-aur](https://github.com/bytehound-labs/omsa8-aur).
+
 ## Packages
 
 | Package | Contents |
